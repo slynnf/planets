@@ -1,2 +1,4 @@
 *.dat
 results/
+b.out
+!b.dat
